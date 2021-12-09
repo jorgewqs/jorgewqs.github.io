@@ -9,6 +9,7 @@ Links:
 + twitter.com/jinhowendell.
 + github.com/jorgewqs
 + youtube.com/jorgewqs
++ linkedin.com/in/jorgewqs/
 
 # jorgewqs.github.io
 
